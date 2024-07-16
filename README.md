@@ -1,4 +1,5 @@
-#Photography agency site
+# Photography agency site
+
 Welcome to the Photography Agency website project! This project showcases a responsive and visually appealing website for a fictional photography agency. It is built using HTML, Tailwind CSS, and JavaScript.
 
 ## Features
